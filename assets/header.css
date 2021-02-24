@@ -191,14 +191,14 @@
 
 .header .top-menu ul li:hover a,
 .header .top-menu ul li.active a {
-  color: #78cc6d;
+  color: #00d4ff;
 }
 
 .header .top-menu ul li:hover a .icon,
 .header .top-menu ul li.active a .icon,
 .header .top-menu ul li:hover a .link,
 .header .top-menu ul li.active a .link {
-  color: #78cc6d;
+  color: #00d4ff;
 }
 
 .header .profile {

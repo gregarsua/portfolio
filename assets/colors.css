@@ -105,7 +105,7 @@ body {
 .single-post-text ul > li:before,
 .comment-text ul > li:before,
 .blog-content ul > li:before {
-  background: #78cc6d;
+  background: #00d4ff;
 }
 
 .lnk:hover,
@@ -200,7 +200,7 @@ strong.woocommerce-review__author,
 .content .title:first-letter,
 .content-sidebar h2.widget-title .first-word,
 .content-sidebar h2.widget-title:first-letter {
-  color: #78cc6d !important;
+  color: #00d4ff !important;
 }
 
 .card-started .profile .image:before,
