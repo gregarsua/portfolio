@@ -1218,7 +1218,7 @@ input[type="file"] {
   z-index: -1;
 }
 .service-project {
-  height: 25vw;
+  height: 20vw;
   overflow: hidden;
 }
 .preview-project {
