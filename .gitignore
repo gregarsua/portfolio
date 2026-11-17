@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build artifacts (keep the bundle since it's needed for deployment)
+# assets/analytics.bundle.js is intentionally NOT ignored
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.iml
